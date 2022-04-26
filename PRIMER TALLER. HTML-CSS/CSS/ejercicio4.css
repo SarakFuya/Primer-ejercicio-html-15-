@@ -1,0 +1,27 @@
+/*Centro de biotecnologia Agropecuario
+Análisis y Desarrollo de Software 
+Ficha: 2470980
+Autor: Sara Katherine Fuya Caceres 
+Fecha de creación: 16 de febrero 2022
+Fecha de actualización: 23 de febrero 2022 */
+
+body{
+    background-color: rgb(165, 48, 194);
+    }
+    /*Aca utilizamos background-color, para cambiar el fondo de mi página*/
+    
+    .tomate{
+        color: hsl(21, 70%, 4%);
+        font-size: large;
+        font-family: monospace;
+    /*Aca se utiliza tanto "color", como font-size, y font-family, para dar color a la letra de nuestra pagina y anchura.*/
+    }
+    
+    #container{
+        width: 1000px;
+        height: 500px;
+        background-color: hsla(289, 31%, 79%, 0.884);
+        margin-left: auto;
+        margin-right: auto;
+    /*El container es el que nos ayuda a centrar y colocar un cuadro el cual nos de una vista centrada de lo que tenemos expuesto.*/
+    }
