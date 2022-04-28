@@ -7,7 +7,7 @@ En este repositorio encontrara 15 ejercicios de html con css
 
 > Ficha de titulacion sena: **2470980**
 
-> Programa de formacion: **Analisis y desarrollo del software
+> Programa de formacion: **Analisis y desarrollo del software**
 
 **_A continuacion encontraremos diferentes imagenes relacionadas que concuerdan con las evidencias mostradas en el archivo, todas cumpliendo con su correspondiente diseño en css, como tambien se puede notar de las paginas su correspondiente icono diferente para cada una de ellas almomento de ser cargadas en la web_**
 
